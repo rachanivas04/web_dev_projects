@@ -1,0 +1,17 @@
+.my-container
+{
+    color:red;
+}
+
+p{
+    color:cadetblue;
+    text-align:center;
+    font-size:30px;
+}
+body 
+{
+    background-color:white;
+}
+h1{
+    height:3vh;
+}

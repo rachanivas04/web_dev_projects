@@ -1,0 +1,194 @@
+.navbar
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    background-color:lightgrey;
+}
+.logo
+{
+    img{
+        width:40%;
+        height:40%;
+    }
+}
+
+.navbar-left
+{
+    padding:20px;
+    
+}
+
+.navbar-right
+{
+    display:flex;
+    flex-direction:row;
+    padding:20px;
+    font-size:20px;
+   
+   
+}
+.elementA
+{
+    padding:4px;
+}
+.elementB
+{
+    padding:4px;
+}
+.elementC
+{
+    padding:4px;
+}
+.elementD
+{
+    padding:4px;
+}
+
+.home
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    background-color:lightgrey;
+
+}
+.heading
+{
+    font-size:50px;
+}
+.para
+{
+     font-size:25px;
+}
+.home-right
+{
+    img{
+        height:400px;
+        width:400px;
+    }
+}
+
+body{
+    background-color: lightgrey;
+}
+
+.services-head{
+    color:green;
+}
+.services{
+    font-size:30px;
+    display:flex;
+    flex-direction:column;
+  
+    text-align:center;
+
+   
+
+}
+.services-left
+{
+    border:5px solid black;
+    margin:20px;
+}
+
+.services-right
+{
+    border:5px solid black;
+    margin:20px;
+}
+.services-top
+{
+    border:5px solid black;
+    margin:20px;
+}
+
+.services-bottom
+{
+    border:5px solid black;
+    margin:20px;
+}
+.services-left-head
+{
+    font-size: 40px;
+   
+    
+    
+    
+}
+.services-left-para
+{
+    font-size:30px;
+     
+}
+.services-right-head
+{
+    font-size:40px;
+
+    
+     
+}
+.services-right-para
+{
+    font-size:30px;
+    
+}
+.services-top-head
+{
+    font-size:40px;
+    
+     
+}
+.services-top-para
+{
+    font-size:30px;
+     
+}
+
+.services-bottom-head
+{
+    font-size:40px;
+    
+}
+.services-bottom-para
+{
+    font-size:30px;
+    
+}
+
+.contact-para
+{
+    font-size:20px;
+}
+ .contactA-para
+ {
+    font-size:20px;
+ }
+ .contact-email-para
+ {
+    font-size:20px;
+ }
+ .instagram
+ {
+    img{
+        width:8vh;
+        height:8vh;
+    }
+ }
+
+ .linkedin
+ {
+    img{
+        width:9vh;
+        height:9vh;
+    }
+ }
+
+ .github
+ {
+    img{
+        width:5wh;
+        height:5vh;
+    }
+ }

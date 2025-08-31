@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Epunda+Slab:ital,wght@0,300..900;1,300..900&family=Libertinus+Keyboard&family=Sirivennela&display=swap');
+
+.navbar-logo{
+    width:10vw;
+    height:20vh;
+}
+.nav-link
+{
+    font-size:20px;
+}
+.mass-body{
+    height:300vh;
+    background-image:url('https://wallpaperaccess.com/full/2124358.jpg');
+    background-repeat: no-repeat;  /* stops repeating */
+     background-size: cover;        /* makes it cover the screen */
+  background-position: center; 
+ 
+}
+.nav-link{
+    color:black;
+    .poppins-thin {
+  font-family: "Poppins", sans-serif;
+}
+}
+.nav-link:hover{
+    color:skyblue;
+}
+.navbar-nav
+{
+   
+    
+    margin-left:auto;
+    
+   
+}
+.box
+{
+    font-size:20px;
+   
+}
+.img-info
+{
+    width:20vw;
+    height:40vh;
+}
+.my-info
+{
+    
+font-family: "DM Serif Text", serif;
+}
+.info-para
+{
+    font-family: "Sirivennela", sans-serif;
+    font-size:35px;
+    color:darkcyan;
+}
+.about-para
+{
+    
+    font-size:35px;
+    font-family: "Sirivennela", sans-serif;
+}
+.about-head
+{
+    font-family: "DM Serif Text", serif;
+}
+.what-head
+{
+  font-family: "DM Serif Text", serif;  
+}
+.what-para
+{
+    font-size:35px;
+    font-family: "Sirivennela", sans-serif;
+
+}
+.courses-img
+{
+    width:20vw;
+    height:40vh;
+}
+.Courses-head
+{
+    font-family: "DM Serif Text", serif;  
+    padding:20px;
+}
+.courses-title
+{
+     font-family: "DM Serif Text", serif;  
+}
+.courses-para
+{
+    font-size:30px;
+    font-family: "Sirivennela", sans-serif;
+}
+.courses-img2
+{
+    width:20vw;
+    height:40vh;
+
+}
+
+.courses-item
+{
+    border:3px solid black;
+}
+
+.courses-item:hover
+{
+    border:5px solid darkgreen;
+}
+.workshop-head
+{
+   margin:20px;
+    text-align:center;
+}
+.contact-head{
+    text-align:center;
+}
+.contact-para
+{
+    margin:20px;
+    text-align:center;
+    font-size:35px;
+    font-family: "Sirivennela", sans-serif;
+}
+.email
+{
+    
+    text-align:center;
+    font-size:35px;
+    font-family: "Sirivennela", sans-serif;
+}
+.list-inline
+{
+    img{
+        width:6vh;
+        height:5vh;
+        
+    }
+  
+}
+.social-icon
+{
+    margin-left:auto;
+    margin-right:auto;
+    
+}

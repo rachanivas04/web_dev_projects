@@ -1,0 +1,7 @@
+.list
+{
+    list-style-type:circle;
+}
+table,th,td,tr{
+    border:2px solid black;
+}
